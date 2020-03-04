@@ -1,3 +1,6 @@
-Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default boostrap variables.
+用于记录和学习的博客。
 
-It is maintained by Simon Freytag on [GitHub](https://github.com/sfreytag/friday-theme) and it was built originally for [Simon's own portfolio](http://www.freytag.org.uk).
+<blockquote cite="">
+    <p>人初做事，如鸡伏卵，不舍而生气渐充；如燕营巢，不息而结构渐牢；如滋培之木，不见其长，有时而大；如有本之泉，不舍昼夜，盈科而后进，放乎四海。</p>
+    <footer>—曾国藩</footer>
+</blockquote>
