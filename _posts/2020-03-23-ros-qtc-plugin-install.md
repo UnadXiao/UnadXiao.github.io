@@ -29,3 +29,6 @@ qtc安装过程
 <img src="/images/04.png" alt="04" style="zoom:67%;" />  
 <img src="/images/05.png" alt="05" style="zoom:67%;" />  
 
+参考：
+
+- https://ros-qtc-plugin.readthedocs.io/en/latest/_source/How-to-Install-Users.html
