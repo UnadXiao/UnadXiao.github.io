@@ -14,21 +14,33 @@ typora-root-url:  ..
 ## Step 1
 
 1. 打开Qt Creator
-2. 在菜单`文件`选项，选择`新建文件或项目`
-3. 
+2. 在菜单`文件`选项，选择`新建文件或项目`项目  **其他项目 -》 ROS Workspace**
+<img src="/images/07.png" alt="01" style="zoom: 67%;" />
 
-## 安装
+## Step 2
 
-1. 右键安装包属性选择**允许作为程序执行文件**  
+1. 填写工作空间信息
 
-<img src="/images/01.png" alt="01" style="zoom: 67%;" />  
+<img src="/images/08.png" alt="01" style="zoom: 67%;" />
 
-2. 双击运行安装程序  
+| 项             | 描述                            |
+| -------------- | ------------------------------- |
+| Name           | 工程名字                        |
+| Distribution   | ROS版本 (indigo, kinetic, etc.) |
+| Build System   | 所需的构建系统。                |
+| Workspace Path | 工作空间文件路径                |
 
-<img src="/images/02.png" alt="02" style="zoom:67%;" />  
-<img src="/images/03.png" alt="03" style="zoom:67%;" />  
-<img src="/images/04.png" alt="04" style="zoom:67%;" />  
-<img src="/images/05.png" alt="05" style="zoom:67%;" />
+2. 下一步，完成
+
+<img src="/images/09.png" alt="01" style="zoom: 67%;" />
+
+## Step 3
+
+默认情况下，Qt Creator会隐藏空文件路夹（新创建的内容是空的）。将**Hide Empty Directories**选项去掉就可以了。
+
+<img src="/images/10.png" alt="01" style="zoom: 67%;" />
+
+至此一个ROS的工作空间工程就创建成功了。
 
 参考：
 
