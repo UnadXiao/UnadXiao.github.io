@@ -48,4 +48,4 @@ Qtc pulgin安装之后会自动增加一个`ROS Terminals`窗口方便运行ros�
 参考：
 
 - https://ros-qtc-plugin.readthedocs.io/en/latest/_source/Import-ROS-Workspace.html
-- [https://github.com/huchunxu/ros_21_tutorials/blob/e52d8a78d46ec90b7367e461ab157668eb666e45/docs/slides/%E5%8F%A4%E6%9C%88%20%C2%B7%20ROS%E5%85%A5%E9%97%A821%E8%AE%B2_9.%E5%88%9B%E5%BB%BA%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4%E4%B8%8E%E5%8A%9F%E8%83%BD%E5%8C%85.pdf](https://github.com/huchunxu/ros_21_tutorials/blob/e52d8a78d46ec90b7367e461ab157668eb666e45/docs/slides/古月 · ROS入门21讲_9.创建工作空间与功能包.pdf)
+- https://github.com/huchunxu/ros_21_tutorials/blob/e52d8a78d46ec90b7367e461ab157668eb666e45/docs/slides/古月 · ROS入门21讲_9.创建工作空间与功能包.pdf
